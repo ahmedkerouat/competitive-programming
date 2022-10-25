@@ -5,7 +5,6 @@ if 1 <= T <= 100:
         S = input()
         c = 0
         for x in range(N - 1):
-            print(x)
             if S[x] == S[x+1]:
                 c += 1
         print(c)
