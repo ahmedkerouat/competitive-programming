@@ -1,9 +1,19 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
+
+#define ll long long
+
+int solve() {
+    ;
+}
+
 int main() {
-    int N;
-    cin >> N;
-    for (int i = 0; i < N; i++) {
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    int t;
+    cin >> t;
+    while (t--) {
+        solve();
     }
     return 0;
 }
