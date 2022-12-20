@@ -12,3 +12,5 @@
 .vscode/c_cpp_properties.json
 *.json
 *.exe
+cdf/eziejze.cpp
+cdf/heauyeau.cpp
