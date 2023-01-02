@@ -13,7 +13,8 @@ int solve() {
     for (int i = 0; i < n; i++) {
         getline(cin, s[i]);
     }
-    for (int i = n - 1; i >= 0; i--)
+    sort(s, s + n);
+    for (int i = 0; i < n; i++)
         cout << s[i] << endl;
 }
 
