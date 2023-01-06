@@ -6,7 +6,7 @@ using namespace std;
 #define endl "\n"
 
 int solve() {
-    ;
+    return 0;
 }
 
 int main() {
