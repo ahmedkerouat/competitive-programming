@@ -4,6 +4,8 @@ using namespace std;
 #define mp make_pair
 #define ll long long
 #define pb push_back
+#define fi first
+#define se second
 #define endl "\n"
 
 int solve() {
